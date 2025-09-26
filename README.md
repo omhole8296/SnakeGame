@@ -1,1 +1,1 @@
-Snake Game using python. used librarys like turtle and random.
+Snake Game using python. used libraries like turtle and random.
